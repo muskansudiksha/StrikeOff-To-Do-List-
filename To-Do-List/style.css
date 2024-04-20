@@ -1,0 +1,47 @@
+body {
+  background: linear-gradient(to right, rgb(75, 121, 161), rgb(40, 62, 81));
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding-top: 10vh;
+}
+
+form {
+  padding-top: 5vh;
+  display: flex;
+  width: 100%;
+  padding-inline: 10vh;
+}
+
+form > input {
+  width: 100%;
+  padding: 1vh;
+}
+
+form > button {
+  width: 6vh;
+}
+
+#button_clear {
+  margin: 2vh;
+  align-items: flex-end;
+  margin-right: 10vh;
+}
+
+.button-div {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#list {
+  background-color: white;
+  margin-inline: 10vh;
+  border-radius: 3px;
+  list-style-type: none;
+}
