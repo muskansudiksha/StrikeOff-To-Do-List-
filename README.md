@@ -22,3 +22,8 @@ Fully Functional To-do List which retains your list even after page refreshes, a
 5) Each to-do can be marked done by clicking on the checkbox which also strikes through the label.
    
 6) To-do list is stored in local storage so that whenever you reopen the web application your list gets reloaded in the same state as before you closed the tab.
+
+
+
+FILE STRUCTURE
+Folder has three files, index.html the main html file which will be rendered, style.css is the only stylesheet linked to the html file, and one javascript file which has all the functionalities and is well documented and is linked to the html file.
